@@ -1,0 +1,7 @@
+{
+  "name": "Aspen - Performance Voice Agent",
+  "description": "A high-performing voice agent for a luxury athletic club in Boulder, Colorado, powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
